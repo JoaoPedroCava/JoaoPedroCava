@@ -8,7 +8,7 @@ João Pedro Araujo Cava
 📫 Email para contato: jpacavak@gmail.com
 
 ![JoaoPedroCava's Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCava&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
 ![JoaoPedroCava's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroCava&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">                     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
